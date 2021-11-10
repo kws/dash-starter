@@ -1,8 +1,8 @@
 {
-  "name": "SF Sign-In",
-  "description": "Sign-in sheet. Not a sheet.",
+  "name": "Plotly Dash Starter",
+  "description": "This is a starter template for Plotly Dash on Heroku.",
   "website": "https://www.socialfinance.org.uk/",
-  "repository": "https://github.com/SocialFinanceDigitalLabs/building-register",
+  "repository": "https://github.com/kws/dash-starter",
   "env": {
   },
   "buildpacks": [
