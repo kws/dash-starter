@@ -1,0 +1,16 @@
+{
+  "name": "SF Sign-In",
+  "description": "Sign-in sheet. Not a sheet.",
+  "website": "https://www.socialfinance.org.uk/",
+  "repository": "https://github.com/SocialFinanceDigitalLabs/building-register",
+  "env": {
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/moneymeets/python-poetry-buildpack.git"
+    },
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
