@@ -4,7 +4,7 @@ A starter template for running [Plotly Dash][dash] on Heroku.
 
 ## Quick start
 
-[Create an Heroku][[heroku-signup] account if you don't already have one,
+[Create an Heroku][heroku-signup] account if you don't already have one,
 and click this button to deploy:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
